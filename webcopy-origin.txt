@@ -1,0 +1,888 @@
+Uri: https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap
+File Name: C:\Downloaded Web Sites\themedox.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7EPCw.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\barlow\v12\7cHpv4kjgoGqM7EPCw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8c4A.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\barlow\v12\7cHqv4kjgoGqM7E30-8c4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3j-wc4A.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\barlow\v12\7cHqv4kjgoGqM7E3j-wc4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-kc4A.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\barlow\v12\7cHqv4kjgoGqM7E3p-kc4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3q-0c4A.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\barlow\v12\7cHqv4kjgoGqM7E3q-0c4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4c4A.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\barlow\v12\7cHqv4kjgoGqM7E3t-4c4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gc4A.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\barlow\v12\7cHqv4kjgoGqM7E3_-gc4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Ccs8.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\barlow\v12\7cHrv4kjgoGqM7E_Ccs8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPI41op.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfPI41op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPk5Fop.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfPk5Fop.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://themedox.com/demo/mykd/
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\index.htm
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/about-us.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\about-us.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/assets/css/main.css
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\css\main.css
+Content Type: text/css
+
+Uri: https://themedox.com/demo/mykd/assets/css/plugins.css
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\css\plugins.css
+Content Type: text/css
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/berlin_sans_fb_demi_bold-webfont.woff
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\berlin_sans_fb_demi_bold-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/berlin_sans_fb_demi_bold-webfont.woff2
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\berlin_sans_fb_demi_bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/flaticon.eot?bfbb5becf4cba6c4e0dd52e574bb002b
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/flaticon.svg?bfbb5becf4cba6c4e0dd52e574bb002b
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/flaticon.ttf?bfbb5becf4cba6c4e0dd52e574bb002b
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/flaticon.woff2?bfbb5becf4cba6c4e0dd52e574bb002b
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://themedox.com/demo/mykd/assets/fonts/flaticon.woff?bfbb5becf4cba6c4e0dd52e574bb002b
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\fonts\flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://themedox.com/demo/mykd/assets/img/bg/footer_shape.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\bg\footer_shape.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/bg/line.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\bg\line.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/bg/mask_bg01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\bg\mask_bg01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/bg/mask_bg02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\bg\mask_bg02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/bg/search_wave.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\bg\search_wave.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/bg/shop_shape.svg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\bg\shop_shape.svg
+Content Type: image/svg+xml
+
+Uri: https://themedox.com/demo/mykd/assets/img/bg/title_shape.svg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\bg\title_shape.svg
+Content Type: image/svg+xml
+
+Uri: https://themedox.com/demo/mykd/assets/img/bg/trendnft_img.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\bg\trendnft_img.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/bg/video_overlay.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\bg\video_overlay.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/blog/avatar.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\blog\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/blog/blog_post01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\blog\blog_post01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/blog/blog_post02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\blog\blog_post02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/blog/blog_post03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\blog\blog_post03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/blog/comment01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\blog\comment01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/blog/comment02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\blog\comment02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/blog/comment03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\blog\comment03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/blog/rc_post01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\blog\rc_post01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/blog/rc_post02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\blog\rc_post02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/blog/rc_post03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\blog\rc_post03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/brand/brand01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\brand\brand01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/brand/brand02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\brand\brand02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/brand/brand03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\brand\brand03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/brand/brand04.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\brand\brand04.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/brand/brand05.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\brand\brand05.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/brand/brand06.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\brand\brand06.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/brand/brand07.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\brand\brand07.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/brand/brand_logo01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\brand\brand_logo01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/brand/brand_logo02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\brand\brand_logo02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/brand/brand_logo03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\brand\brand_logo03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/gallery01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\gallery01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/gallery02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\gallery02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/gallery03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\gallery03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/gallery04.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\gallery04.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/gallery05.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\gallery05.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/project_01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\project_01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/project_02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\project_02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/project_03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\project_03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/project_04.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\project_04.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/project_05.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\project_05.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/project_06.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\project_06.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/project_07.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\project_07.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/gallery/project_08.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\gallery\project_08.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/btn_shape01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\btn_shape01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/btn_shape02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\btn_shape02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/circle.svg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\circle.svg
+Content Type: image/svg+xml
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/circle02.svg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\circle02.svg
+Content Type: image/svg+xml
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/features_icon01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\features_icon01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/features_icon02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\features_icon02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/features_icon03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\features_icon03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/fire.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\fire.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/social_icon01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\social_icon01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/social_icon02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\social_icon02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/social_icon03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\social_icon03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/social_icon04.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\social_icon04.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/trophy.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\trophy.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/icons/trophy_color.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\icons\trophy_color.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/instagram/insta01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\instagram\insta01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/instagram/insta02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\instagram\insta02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/instagram/insta03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\instagram\insta03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/instagram/insta04.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\instagram\insta04.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/instagram/insta05.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\instagram\insta05.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/instagram/insta06.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\instagram\insta06.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/logo/logo.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_avatar.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_avatar.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_avatar01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_avatar01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_avatar02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_avatar02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_avatar03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_avatar03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_img01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_img02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_img03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_img03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_img04.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_img04.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_img05.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_img05.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_img06.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_img06.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_img07.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_img07.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/nft/nft_img08.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\nft\nft_img08.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_img01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_img02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_img03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_img03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_img04.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_img04.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_img05.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_img05.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_img06.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_img06.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_tab01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_tab01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_tab02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_tab02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_tab03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_tab03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_tab04.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_tab04.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_tab05.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_tab05.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/about_tab06.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\about_tab06.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/breadcrumb_img01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\breadcrumb_img01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/breadcrumb_img02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\breadcrumb_img02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/breadcrumb_img03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\breadcrumb_img03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/fun_fact.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\fun_fact.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/fun_fact_shape.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\fun_fact_shape.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/mask_img01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\mask_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/mask_img02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\mask_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/payment_card.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\payment_card.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/roadmap.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\roadmap.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/roadmap_img.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\roadmap_img.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/services_details.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\services_details.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/services_details01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\services_details01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/services_details02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\services_details02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/services_img01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\services_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/services_img02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\services_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/services_img03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\services_img03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/services_img04.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\services_img04.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/team_vs01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\team_vs01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/team_vs02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\team_vs02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/team_vs03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\team_vs03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/team_vs04.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\team_vs04.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/team_vs05.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\team_vs05.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/team_vs06.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\team_vs06.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/tournament01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\tournament01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/tournament02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\tournament02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/tournament03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\tournament03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/tournament_ad.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\tournament_ad.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/tournament_thumb01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\tournament_thumb01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/tournament_thumb02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\tournament_thumb02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/tournament_thumb03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\tournament_thumb03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/trend_match01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\trend_match01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/trend_match02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\trend_match02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/trend_match03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\trend_match03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/win01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\win01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/others/win02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\others\win02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/product01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\product01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/product02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\product02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/product03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\product03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/product04.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\product04.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/product05.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\product05.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/product06.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\product06.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/product07.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\product07.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/product08.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\product08.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/product09.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\product09.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/shop_details01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\shop_details01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/shop_details02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\shop_details02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/shop_details03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\shop_details03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/shop_nav01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\shop_nav01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/shop_nav02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\shop_nav02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/products/shop_nav03.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\products\shop_nav03.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/slider/slider_img01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\slider\slider_img01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/slider/slider_shape01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\slider\slider_shape01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/slider/slider_shape02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\slider\slider_shape02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/slider/slider_shape03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\slider\slider_shape03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/slider/slider_shape04.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\slider\slider_shape04.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/slider/text_gradient_bg.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\slider\text_gradient_bg.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/breadcrumb_team.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\breadcrumb_team.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/streamers01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\streamers01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/streamers02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\streamers02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/streamers03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\streamers03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/streamers04.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\streamers04.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/streamers05.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\streamers05.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/streamers06.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\streamers06.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/streamers07.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\streamers07.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/team01.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\team01.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/team02.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\team02.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/team03.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\team03.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/team04.png
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\team04.png
+Content Type: image/png
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/team_details.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\team_details.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/team_details01.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\team_details01.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/img/team/team_details02.jpg
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\img\team\team_details02.jpg
+Content Type: image/jpeg
+
+Uri: https://themedox.com/demo/mykd/assets/js/ajax-form.js
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\js\ajax-form.js
+Content Type: application/x-javascript
+
+Uri: https://themedox.com/demo/mykd/assets/js/main.js
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://themedox.com/demo/mykd/assets/js/plugins.js
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\js\plugins.js
+Content Type: application/x-javascript
+
+Uri: https://themedox.com/demo/mykd/assets/js/tg-page-head.js
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\js\tg-page-head.js
+Content Type: application/x-javascript
+
+Uri: https://themedox.com/demo/mykd/assets/js/vendor/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\assets\js\vendor\jquery-3.6.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://themedox.com/demo/mykd/blog-details.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\blog-details.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/blog.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\blog.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/contact.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\contact.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/index-2.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\index-2.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/index.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\index.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/services-details.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\services-details.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/services.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\services.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/shop-details.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\shop-details.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/shop.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\shop.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/team-details.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\team-details.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/tournament-details.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\tournament-details.html
+Content Type: text/html
+
+Uri: https://themedox.com/demo/mykd/tournament.html
+File Name: C:\Downloaded Web Sites\themedox.com\demo\mykd\tournament.html
+Content Type: text/html
+

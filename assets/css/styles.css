@@ -835,3 +835,13 @@ flex-shrink: 1;
  height:169px;
  width: 100%;
 }
+.nft-item__thumb{
+  width:100%;
+  flex: display;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+.character{
+  width:800px;
+  height: 200px;
+}

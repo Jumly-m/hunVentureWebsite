@@ -893,6 +893,13 @@ video{
     width: 100%;
     height: 100%;
   }
+  .slider__img{
+    border-radius:10px;
+    border:1px solid yellow;
+  }
+  .sliderIMG{
+    border-radius:10px;
+  }
 }
 
 
